@@ -1,3 +1,5 @@
+# Repo opened refereing to the issue opened here https://github.com/livghit/go-htmx/issues/2
+
 # Must have features :
 
 
